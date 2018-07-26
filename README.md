@@ -1,8 +1,8 @@
 ## React project for cryptolovers
 
-[Demo App](http://condescending-kalam-8d1440.netlify.com/)
+[Demo App](nico-cryptolover.surge.sh)
 
-![cryptofy bg](https://preview.ibb.co/mwxZ9H/crypto.png)
+![cryptolovers](https://ibb.co/dKcOZT)
 
 ## Credits
 

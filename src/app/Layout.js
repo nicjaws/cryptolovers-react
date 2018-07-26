@@ -9,7 +9,7 @@ export const Layout = ({ children }) => {
   return (
     <div>
       <Helmet
-        title="Cryptofy"
+        title="CryptoLovers"
         script={[
           { src: 'https://use.fontawesome.com/releases/v5.0.7/js/all.js' }
         ]}
