@@ -1,8 +1,10 @@
 ## React project for cryptolovers
 
-[Demo App](nico-cryptolover.surge.sh)
+[Demo App]
+<a href="https://nico-cryptolover.surge.sh/">CryptoLovers</a>
 
-![cryptolovers](https://ibb.co/dKcOZT)
+[cryptolovers]
+<img src="https://ibb.co/dKcOZT"/>
 
 ## Credits
 
