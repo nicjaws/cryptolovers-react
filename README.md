@@ -6,7 +6,7 @@
 [cryptolovers]
 <img src="https://ibb.co/dKcOZT"/>
 
-![Screenshot](crytolover.png)
+![Screenshot](cryptolover.png)
 
 ## Credits
 
